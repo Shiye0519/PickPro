@@ -1,0 +1,1 @@
+import{_ as a,c as s,a as o,o as t}from"./index-X1oN8EGq.js";const n={},r={class:"learn"};function c(_,e){return t(),s("div",r,e[0]||(e[0]=[o("h1",null,"学习中心",-1)]))}const l=a(n,[["render",c],["__scopeId","data-v-4bad53ea"]]);export{l as default};

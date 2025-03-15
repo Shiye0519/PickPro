@@ -1,0 +1,1 @@
+import{_ as o,c as t,a as s,o as a}from"./index-X1oN8EGq.js";const c={},n={class:"about"};function r(_,e){return a(),t("div",n,e[0]||(e[0]=[s("h1",null,"关于我们",-1)]))}const l=o(c,[["render",r],["__scopeId","data-v-8a4e6dc8"]]);export{l as default};
